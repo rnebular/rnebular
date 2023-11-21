@@ -1,8 +1,8 @@
 ### RNebular 👋
 I've been using this name for decades, ask me about it. If you already know it's origin, bonus points!
 
-- 🔭 I’m currently working on V-Rising Dedicated server improvements:
-https://github.com/rnebular/v-rising-ec2
+- 🔭 I’m currently working on Satisfactory Dedicated server improvements:
+https://github.com/rnebular/satisfactory-ds
 
 
 <!--
